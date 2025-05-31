@@ -16,7 +16,7 @@ class _HomeScreenState extends State<HomeScreen> {
   bool _isDarkMode = false;
   bool _isArabic = true; // Default language is Arabic
   final TextEditingController _topicController = TextEditingController();
-  final String apiKey = 'AIzaSyD_5U1hOrO4zxM-d8aztYlIwv5hobQ4kZI';
+  final String apiKey = 'Your_api';
 
   @override
   void dispose() {
